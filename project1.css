@@ -1,0 +1,46 @@
+
+.item1{
+    border: 3px solid brown;
+    border-radius: 5px;
+    width: 99.5%;
+    height: 40px;
+}
+.item2{
+    border: 3px solid brown;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    border-radius: 5px;
+    height: 600px;
+    width: 20%;
+    float: left;
+}
+.item3{
+    border: 3px solid brown;
+    border-radius: 5px;
+    width: 58.6%;
+    height: 40px; 
+    grid-template-columns: auto auto auto;
+    float: inline-start;
+}
+.item4{
+    border: 3px solid brown;
+    border-radius: 5px;
+    grid-template-columns: auto auto;
+    width: 20%;
+    height: 600px;
+    float: inline-end;
+}
+.item5{
+    border: 3px solid brown;
+    border-radius: 5px;
+    width: 58.6%;
+    height: 555px;
+    float: inline-start;
+    grid-template-columns: auto auto;
+}
+.item6{
+    border: 3px solid brown;
+    border-radius: 5px;
+    width: 99.5%;
+    height: 40px;
+}

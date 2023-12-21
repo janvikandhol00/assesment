@@ -1,0 +1,32 @@
+.container{
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: auto auto auto auto auto auto;
+    gap: 5.5px;
+    width: 50%;
+}
+.head{
+  border: 2px solid orangered;
+  height: 50px;
+}
+.nav{
+    border: 2px solid orangered;
+    height: 50px;
+}
+.main{
+    border: 2px solid orangered;
+    height: 300px;
+    
+}
+.side{
+    border: 2px solid orangered;
+    height: 50px;
+}
+.add{
+    border: 2px solid orangered;
+    height: 50px;
+}
+.foot{
+    border: 2px solid orangered;
+    height: 50px;
+}

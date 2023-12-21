@@ -1,0 +1,45 @@
+.item1{
+    border: 3px solid brown;
+    border-radius: 5px;
+    width: 50%;
+    height: 40px;
+}
+.item2{
+    border: 3px solid brown;
+    border-radius: 5px;
+    width: 50%;
+    height: 40px;
+}
+.item3{
+    display:grid;
+    border: 3px solid brown;
+    border-radius: 5px;
+    grid-template-columns: auto auto;
+    width: 10%;
+    height: 400px;
+    float: left;
+    gap: 5.5px;
+}
+.item4{
+    border: 3px solid brown;
+    border-radius: 5px;
+    width: 50%;
+    height: 400px;
+    float: none;
+}
+.item5{
+    display: grid;
+    border: 3px solid brown;
+    border-radius: 5px;
+    width: 10%;
+    height: 40px;
+    grid-template-columns: auto auto;
+    float: left;
+}
+.item6{
+    border: 3px solid brown;
+    border-radius: 5px;
+    width: 50%;
+    height: 40px;
+    float: none;
+}
